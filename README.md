@@ -8,7 +8,7 @@ This repository is the source for [https://kotlinlang.org](https://kotlinlang.or
 * [Contribution](#contribution)
 * [Local deployment](#local-deployment)
 * [Feedback and issues](#feedback-and-issues)
-
+ 
 <a id="project-structure"></a>
 
 ## Website structure 
